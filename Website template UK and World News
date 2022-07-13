@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>9B Newsday</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+</head>
+<body class="w3-light-grey">
+
+<!-- w3-content defines a container for fixed size centered content, 
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1400px">
+
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-32"> 
+  <h1><b>The Westfield</b></h1>
+  <p>Welcome to the newspaper of <b>9B</span></b></p>
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    <div class="w3-container">
+      <h3><b>BORIS BLAMES ‘THE HERD’ FOR RESIGNATION. HAS HE FORGOTTEN PARTYGATE, PATERSON, AND PINCHER? </b></h3>
+      <h5>Boris Johnson has officially resigned as the leader of the Conservative party, much to the relief of several prominent members of the party, and is expected to serve as Prime Minister until a new party leader is elected in autumn, <span> <b> Adam Havis 9B</b></span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>On Thursday 7th July, Boris Johnson spoke outside of 10 Downing Street to a crowd of spectators, announcing his decision to resign in the face of unprecedented mass resignations by top members of his government. </p>
+
+<p>Just two days previously, his Health Secretary Sajid Javid and Chancellor Rishi Sunak had quit, after seeing Johnson’s appalling handling of sexual misconduct allegations against Chris Pincher. Mr Sunak stated in a letter that he "rightly expects government to be conducted properly, competently and seriously".</p>  
+
+<p>This caused a cascade of resignations and letters of no confidence to pour in from other ministers, with many senior conservatives urging Mr Johnson himself to resign. However, the Prime Minister clung onto power, claiming that he would not give up his "colossal mandate" from the 2019 election. </p>
+
+<p>By Thursday, more than 50 ministers had resigned, including Education Secretary Michelle Donelan, who had been appointed less than two days ago, and the government could not perform its role due to lack to staff. </p>
+
+<p>Finally, at midday, standing at his podium, Boris Johnson resigned with a speech in which he appeared to regret nothing, clearly believing that he still has a right to remain as Prime Minister.</p> 
+
+<p>In his speech, Mr Johnson made no mention of his previous scandals, such as his major breach of lockdown regulations, or his appointment of Chris Pincher, despite knowing of allegations of sexual misconduct against him. Instead, he blamed his own party for his downfall, comparing them to stampeding animals. “As we have seen at Westminster … when the herd moves, it moves.”, Johnson said. Nor did he express any interest in apologising, or even thanking his fellow ministers who had defended him in parliament.</p>  
+
+<p>It is expected that while a leadership battle rages on in the conservative party, Johnson will act as “care-taker” for the nation, but even this decision is also under heavy criticism. Many leading members of parliament want Boris out of office as soon as possible, with some calling for Theresa May to return and take the role of “care-taker”. 
+
+<p>Top contenders for the new leader of the conservatives include Rishi Sunak, the former Chancellor who became a household name after his series of plans to kick-start the economy after covid; Penny Mordaunt, the international trade minister who hasn’t been afraid to criticise Boris Johnson; and Sajid Javid, the former health secretary with a focus on integrity.</p>  
+
+<p>Meanwhile, elsewhere in the world, there is little support for Mr Johnson. Many EU member states shared a dislike of the Prime Minister after Brexit, and they haven’t warmed up to him since. The French finance minister Bruno Le Maire has said that: “personally, I won’t miss him”, and Guy Verhofstadt, a Belgian politician, claimed that “Boris Johnson’s reign ends in disgrace”. </p> 
+
+<p>Similarly, Joe Biden in the United States seems ready to move on, as evidence by his recent speech concerning Anglo-American relations, where he didn’t even mention Boris Johnson by name. In Russia, Vladimir Putin’s spokesman Dmitry Peskov stated that Johnson “really does not like us – and we [do not like] him either”.   </p>
+
+<p>It seems that after long 3 years of scandals and broken promises, the Boris Johnson era has at last drawn to a close. Only one question remains unanswered. Who will succeed him? </p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+		</p>
+          <p><b><a class="w3-button w3-padding-large w3-white w3-border" href="https://www.wsj.com/articles/boris-johnson-prime-minister-resigns-uk-government-11657144874?mod=world_major_2_pos3" target="_blank">READ OTHER ARTICLES>></b></a>
+        </div>
+        <div class="w3-col m4 w3-hide-small">          
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  <div class="w3-card-4 w3-margin w3-white">
+    <div class="w3-container">
+      <h3><b>Why America allowing abortion laws to be left to the States is an injurious idea  </b></h3>
+      <h5>On 24th June 2022, the US Supreme Court overturned Roe v Wade – an historic case which legalised abortion across the nation.   <span> <b> Aaron Brainch 9B</b></span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>Roe v Wade began in 1969 when Norma McCorvey (known by her legal pseudonym “Jane Roe”) became pregnant and wished to seek an abortion. However, her state (Texas) and made abortion illegal unless it was to save the mother’s life. Roe and her lawyers went up against the local district attorney Henry Wade and won the case on the grounds that this abortion law was a violation of her constitutional rights. On 22nd January 1973, the US Supreme Court described a right to abortion as “fundamental” which challenged many abortion laws in a number of states. 
+
+<p>The reasoning behind the overturning of this case was due to the fact that the arguments presented were “exceptionally weak” and were “egregiously wrong” according to Justice Samuel Alito who wrote on behalf of the court majority.  
+
+<p>As of the 8th July 2022, according to the Guttmacher Institute, 25 out of 50 or 50% of states in the USA have been labelled as being “restrictive”, “very restrictive”, or “most restrictive” in terms of abortion laws which will have the potential to effect 40 million women of child-bearing age in the USA.   
+
+<p>However, the decision to grant states the ability to make their own abortion laws will soon reveal itself as prodigious error that will inflict more harm than good in a plethora of ways. These include the fact that dangerous abortions will still be carried out, a rise of children needing adoption will occur (which is not a perfect system to begin with), some people cannot afford children and this outcome will punish victims of rape instead of the perpetrators.  
+
+<p>In spite of the decision to ban or heavily restrict abortions in some states, people residing in them will still perform them regardless. However, as possibilities of doing so begin to dwindle, these people will be forced to use unsafe methods and will end up severely harming themselves. This is not simply speculation. In the times before Roe v Wade occurred, some people resorted to using coat hangers, broken bottles, hooks and needles to perform self-induced abortions. Everyday items were used out of frenetic desperation to perform abortions so women could be liberated and free of a responsibility they could not handle. This resulted in a series of women becoming infected with diseases from unsterilised items, puncturing their uteruses and losing lots of blood and in extreme cases, losing their lives. If actions are not taken to reverse this overturn, women in states with restrictive abortion laws will become forced endure multitudes of risk and pain all because they were denied freedom to their own body. The same freedom the United States of America have proudly boasted for decades.  
+
+<p>In addition to unsafe abortions occurring, those who are forced to carry a baby to term may not have the resources available to successfully take care of a baby and provide it with a loving life. Even before the baby is taken out of the hospital, mothers can face a bill of over $13,000 and in some cases, a bill of $20,000-$30,000. Although some of this will be paid by medical insurance, the mother will still be expected to cover part of it which may result in them paying thousands of dollars anyway. This year, the average cost of raising a child to 18 is estimated to be $272,049 which many people, particularly those in poverty, cannot afford. Aside from the financial perspective, some women, who have been denied abortions and forced to carry a baby term, simply do not have enough time to raise a child. In the long run, this will lead to neglect and would cause a large number of children to fall astray due to problems regarding brain development according to the NSPCC. In the event of teenage pregnancies, young parents will most likely not be able to take care of a baby which will severely impact their social lives, stifle their academic progress and deteriorate their own mental wellbeing. 1 in 10 abortions are performed on teenagers meaning the banning of abortions will only cause these issues to exacerbate.  
+
+<p>Text BoxAs well as some people not being able to afford children, the overturn of Roe v Wade will cause there to be an extreme increase in the number of children needing adoption. When women begin to birth unwanted infants, not all of them will find themselves in the same household as their mothers. Therefore, these babies will be crammed into the adoption system which although works in the US now, will not be able to handle the sheer influx of children in the near future. This will lead to some children never being adopted and being catapulted into a world they have little idea of how to navigate. In the US, adoptions rates are already declining as in 2019, 115,353 children were adopted whereas in 2020, that number fell to 95,306. In extreme cases, some unfortunate women may resort to simply abandoning their babies.   
+
+<p>The illegalisation and restriction of abortions also punishes victims of rape with the burden of an unwanted child giving them a permanent reminder of a forlorn and scarring incident. A situation similar to this almost occurred this month in July 2022 when a 10-year-old girl and victim of rape was denied an abortion in Ohio as according to Ohio’s laws, she had been pregnant for too long (a mere six weeks and three days). She was forced to travel to out of state to Indiana where she could receive an abortion. Incidents like this will only become more common with the overturn of Roe v Wade and states having the power to determine abortion laws is criminal. Denying a minor, a girl who had only lived one decade of life and a victim of rape an abortion is an infringement of her personal freedom and liberty.  
+
+<p>Overall, allowing abortion laws to be left to the states is an injurious idea as dangerous abortions will still be carried out, a rise of children needing adoption will occur, not all infants will be cared for and victims of rape will be unjustly punished for something out of their control. The banning and restriction of abortion is a malignant attack, is unconstitutional and limits the power of an individual over their own body.   </p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+		</p>
+          <p><b><a class="w3-button w3-padding-large w3-white w3-border" href="
+https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473" target="_blank">READ OTHER ARTICLES>></b></a>
+        </div>
+        <div class="w3-col m4 w3-hide-small">          
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  
+  <div class="w3-card-4 w3-margin w3-white">
+    <div class="w3-container">
+      <h3><b>WAR IN UKRAINE: A RUSSIAN FAILURE ON THE BATTLEFIELD AND IN THE MEDIA  </b></h3>
+      <h5>Ukraine has defied all expectations of being overrun and defeated within months, partially due to the huge amount of Western aid and to the strategic failures of the Kremlin. Ukraine may not be winning every battle on the frontline but is winning in the information war.  <span> <b> Matthew Wang 9B</b></span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>Since the start of Putin’s ‘special military operation’ in late February this year, which was a war that the Kremlin believed would end in a quick and decisive Russian victory. Raging on for nearly 5 months, it is clear this conflict would have no quick end, fuelled by the will to fight and defend their homeland of the Ukrainians and the endless attacks by Russian forces, this far in, Putin can no longer afford to lose this conflict, Russian forces have suffered losses and committed resources to a point where it has become better to continue the war in hopes of victory than to retreat and pull out of Ukraine, which would not only be a tremendous waste in resources and destabilise Putin’s regime, but also it would show the world to a greater extent how the current Russian armed forces has only a fraction of the power to the previous Soviet Red Army, causing internal and international humiliation and an economy in ruins. 
+
+<p>To avoid a deadly confrontation with Russia, the West, NATO, have resorted to sending defensive munitions and weaponry to Ukraine to stem the Russian invasion. It must be said that NATO’s defensive weaponry have had a profound effect in the defence of Ukraine, and such modern technology such as the FGM-148 Javelin anti-tank guided missile, have facilitated the destruction of tanks and armoured vehicles, in addition to MANPADS, man-portable air-defence system, just to name a few. Western aid to Ukraine has been massive, with NATO members such as the UK providing £2.3 billion in military aid to Ukraine and $4.6 billion from the US, with Congress approving an enormous aid package of nearly $40 billion. The aid package includes $3.9 billion to support U.S. forces stationed in Europe and $19 billion for immediate military assistance to Ukraine, continuing the effort that has been essential to maintaining Ukrainian resistance. Along with $2 billion for long-term support for NATO partners and DOD modernization projects, the package also includes nearly $16 billion for economic assistance to Ukraine, worldwide humanitarian relief, and a range of multinational programmes. However, much of the military equipment donated to Ukraine has been taken from a wide variety of Western weapon stocks, donating equipment is all good and well, however the problem is “the ability of the Ukrainians to absorb all of this equipment” as stated by Mark Cancian, a senior advisor with the Centre for Strategic and International Studies (CSIS) Security Program. Ukrainian forces have previously been trained on Soviet-era weapons left over after the fall of the USSR in 1991, now they are trying to switch over to newer and more modernised Western systems which may take weeks or even months to train crews to operate. Mark Cancian has also stated that NATO countries, by sending equipment, which are of different systems, have exacerbated the situation. Ukrainian forces now must be trained to use two different systems, as well as creating separate supply chains for spare parts. Even with these complexities, it is almost certain that without the vast amounts of Western aid, Kyiv would have certainly fallen to Putin’s forces by now. 
+
+<p>The defence of Ukraine has been somewhat helped by the numerous and significant challenges to logistics and supply chains, as well as poor planning of Russian forces, and the Kremlin underestimating the willpower of the Ukrainian people in addition to misjudging the international response. Putin somewhat stubbornly believed that many Ukrainians would support the annexation by Russia.  
+
+<p>Putin’s speech was poorly composed and lacked any sort of reasonable justification which would rally support. By claiming the “de-Nazification” of Ukraine, it became clear that someone in the Kremlin did not perform the basic task of research, and the reason became widely disregarded as the elected President of Ukraine, Volodymyr Zelenskyy, was himself Jewish. Ukraine also has the third largest Jewish population in Europe and has laws condemning Nazi and Communist totalitarian regimes and banning the spread and use of their symbols and the public denial of their crimes. This immediately made Putin lose credibility and hence lost much of the already thin support for the war. 
+
+<p>Wars are also won by the ability to hold the land and control the population living in that area. This has proved difficult for the Russian forces, as it has become evident that much of the Ukrainian population is hostile towards the invading army. The war, for some Ukrainians, has turned into a patriotic war, with many people volunteering to fight. Problems arise in urban combat, where with modern social media and the internet, it has become easier for defending forces to know the locations of opponents, which has been seen when Ukrainian residents have posted videos of Russian units moving in their area. This gives significant advantage to the Ukrainian military in defence of strategic urban areas. However, this also blurs the line between the non-combatant and the combatant, as civilians who use any devices to share information which helps the Ukrainian forces, can be considered as part of a military element.  
+
+<p>Russian ground forces began with quick territorial gains on the Northern Front, helped by the superior numbers of artillery and mechanised formations. This advance was short lived after suffering serious casualties due to Ukrainian ambushes against tanks and other armoured vehicles, helped by the donations of NLAWs (Next generation Light Anti-tank Weapon) by Western countries such as the UK which had donated 5000 of those systems. The majority of Russian ground units were battalion tactical groups, which were combined arms formations which were in theory meant to be self-sufficient, but in practise were not operating at maximum strength and lacked infantry support. 
+
+<p>Logistical and maintenance issues were widespread, especially in areas of combat and active fighting. Faster formations were able to push forward quickly, and out of the reach of support companies which left them with limited capability to continue advancing or hold ground. Putin’s forces also failed to provide sufficient convoy protection, often leading to vehicles on the frontline being abandoned after breaking down due to a lack of engineers, parts and recovery vehicles.  
+
+<p>Ukraine has shown the utility of UAVs (unmanned aerial vehicles) in combat, by coordination with Ukrainian ground units and special forces to locate and destroy targets and formations with high accuracy. With the help of the UAVs, Ukrainian forces have also managed to sink the Russian Black Sea Fleet flagship Moskva.  
+
+<p>The Russian advance has not been helped by the failure of the Russian air force to gain aerial superiority in Ukraine, even though they have conducted missile strikes against key military infrastructure which included air defences. Equipment such as the FGM-92 Stinger system, which is easily operated, man portable, and available in large numbers through Western aid.  
+
+<p>On the other hand, Russian forces have had success in the Donbas region of Eastern Ukraine. This has been due to the enormous artillery firepower the Russian army possesses, which have been able to effectively support infantry and formations on the frontline, sometimes making up for the sub-par quality of Putin’s ground forces. 
+
+<p>Russia themselves also have utilised UAVs in the conflict in Ukraine, however, have suffered losses to electronic jamming systems or have been simply shot down. This places Russia in a bad place as the Russia lacks the industry and technology to replace these lost drones. It is a similar story is many other highly advanced equipment Russia fields. Many of them require parts which require skilled manufacturing and advanced industry of which some parts have been made in countries such as the UK and the USA. 
+
+<p>On the information front, Ukraine seems to have the support of many nations and people. Zelenskyy is a key player in their campaign to appeal to foreign, mainly Western and NATO, governments to secure military and economic aid. He also received a standing ovation from the House of Commons and EU Parliament. The use of social media has shown to have great influence on the opinions of many people in foreign countries. 
+
+<p>The Ukrainian forces have much high morale than the Russian troops, and this plays a key part in the continuation of the war. It is much likely for Russian forces to be exhausted and to lack motivation than the defending Ukrainian army.  
+
+<p>Videos and pictures of Ukrainians in defiance against their Russian occupiers have been hugely successful in gaining approval and spreading the information of the war. However, it must be said that there have also been misleading posts, which have turned out to be false, a note to take that all sides have propaganda and campaigns to influence public opinion. 
+
+<p>Public opinion in Western countries have also shown to influence the actions of those countries’ leaders, notably PM of the UK, Boris Johnson, who has sent vast stockpiles of British army equipment to Ukraine, in an effort to distract from internal issues regarding his premiership.  
+
+<p>Along with this, the war invited overwhelming international condemnation of Russia, of 193 nations: 141 countries voted in support of the condemnation of Russia, while only 5: Belarus, Syria, North Korea, Eritrea and Russia voted against. Even countries usually friendly to Russia, mainly China, abstained from voting, making mockery of the “no limits” friendship statement between Moscow and Beijing just weeks prior. 
+
+<p>Even though it seems that Ukraine is currently able to hold and keep Putin’s army at bay, and maintain extensive international and internal support, there will come a point where even with the military equipment donated by the West, the Ukrainian forces will start to lose grip and their defences will slowly weaken. The Russian forces have already changed strategy of holding territories that they have gained, and advance by attacking small targets on the frontline. With greater stockpiles of artillery shells, Putin’s army can sustain artillery bombardment for much longer and hit Ukrainian forces behind the frontline.  
+
+<p>If Ukraine is to win the war against tyranny, the West must coordinate and communicate better with Ukraine in order to provide the munitions and equipment necessary to continue the fight, however NATO must tread with caution. As we have seen, Putin’s behaviour is erratic, and the West must be sure to not push him over to edge to nuclear escalation which will lead to mutually assured destruction.  </p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+		</p>
+          <p><b><a class="w3-button w3-padding-large w3-white w3-border" href="https://www.wsj.com/articles/boris-johnson-prime-minister-resigns-uk-government-11657144874?mod=world_major_2_pos3" target="_blank">READ OTHER ARTICLES>></b></a>
+        </div>
+        <div class="w3-col m4 w3-hide-small">          
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+    
+
+
+  <!-- Blog entry -->
+  
+<!-- END BLOG ENTRIES -->
+<div class="w3-card-4 w3-margin w3-white">
+    <div class="w3-container">
+      <h3><b>Is our rail industry going off the rails? </b></h3>
+      <h5>It's no secret that Britain’s rail industry is in a state of disarray, but what really are the problems, and why is the railway so bad?<span><b>Alfie Marjoram 9B</b></span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>
+	  In the first three months of this year, the Office of Rail and Road reports that 72.4 percent of trains ran on-time. As such, if you travel to work by train, five days a week, then you are likely to be delayed on three of your journeys. The report also shows that 3.9 percent of trains were cancelled, which means that, in one month of travelling to work, at least one of your trains will not operate. 
+
+ 
+
+<p>The above statistics only hold true if the trains are actually running. Just last month, there was an entire week of major travel disruption as members of the RMT Union went on strike across the country because of disputes over pay. The strikes meant that 80 percent of trains were cancelled, and millions of people were unable to get to work. Mick Lynch, senior member of the Union, says that passengers ‘should be prepared for rail strikes to continue well into the autumn.’ 
+
+ 
+
+<p>Unfortunately, the government is not doing much to help the industry. On 27th of June 2022, Transport for London received its fifth 'extended budget,’ worth £200 million, which ends today. As with many issues, the dispute is a matter of politics: a Conservative government disputing with the Labour Mayor of London. Yet, the government is still not providing what the company is pleading for: a long-term funding agreement. ‘We think that cutting services should be your last resort, not your first… TfL services are not at risk unless you want them to be’ says Grant Shapps, Transport Secretary for England. Despite these promises, the services are still at a huge risk if funding isn't provided again. 
+
+ 
+
+<p>Now, what really causes a train to be delayed? The announcer might tell you it's because of a signal fault; the staff might not tell you anything, and Trainline won’t load because the Wi-Fi isn’t working. Well, statistics for 2020/21 suggest that fatalities, equipment failures, and train faults are the most common causes of delays. Network Rail say that ‘we do everything we can to prevent delays,’ but professional Twitter user Dave Smith believe that the trains are delayed on purpose. General trends show that the amount of delays is decreasing over the whole network, but there is still lots of work to be done. 
+
+ 
+
+<p>Another problem that continues to plague the industry is major safety issues with entire fleets of trains. In April 2021, more than one hundred trains were taken out of service from LNER and GWR Intercity routes to Edinburgh, Cardiff, Cornwall, and the North. The class 800 ‘Hitachi’ trains were found to have cracks in their wheel sets, which could have led to a serious high-speed crash. Barely a year later, the Metropolitan line experienced the same problems with its trains, leading to heavily disrupted services for thousands of commuters. At least the trains aren’t crashing... 
+
+ 
+
+<p>Well, on the 5th of July 2022 at 6:20am, two freights trains collided in Doncaster. Luckily, nobody was injured, however the incident has sparked an investigation into why trains are still colliding in the UK.  
+ 
+
+<p>The industry boasts about its safety and punctuality, but should they really be bragging when a quarter of their trains don’t run on time, and when some trains are still going off the rails?  
+	  </p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+          <p><b><a class="w3-button w3-padding-large w3-white w3-border" href="https://inews.co.uk/news/train-strikes-when-next-rmt-rail-strike-dates-this-week-walkouts-1704720" target="_blank">READ OTHER ARTICLES>></b></a>
+        </div>
+        <div class="w3-col m4 w3-hide-small">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<hr>
+
+
+
+
+
+
+
+
+
+
+<!-- Introduction menu -->
+<div class="w3-col l4">
+
+  <!-- About Card -->
+  <div class="w3-card w3-margin w3-margin-top">
+  <img src="KEGS logo.jpg" style="width:100%">
+    <div class="w3-container w3-white">
+      <h4><b>My Name</b></h4>
+      <p>This is where the actual motto and bias of the KEGS CHRONICLE is written</p>
+    </div>
+  </div><hr>
+  
+  <!-- Posts -->
+  
+  <hr> 
+ 
+  <!-- Labels / tags -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>Tags</h4>
+    </div>
+    <div class="w3-container w3-white">
+    <p><button class="w3-tag w3-light-grey w3-small w3-margin-bottom" onclick="document.location=''">Features and Entertainment</button> 
+	<button class="w3-tag w3-light-grey w3-small w3-margin-bottom" onclick="document.location=''">UK and World News</button>
+	<button class="w3-tag w3-light-grey w3-small w3-margin-bottom" onclick="document.location=''">Business and Economics</button>
+	<button class="w3-tag w3-light-grey w3-small w3-margin-bottom" onclick="document.location=''">Local News</button>
+	<button class="w3-tag w3-light-grey w3-small w3-margin-bottom" onclick="document.location=''"> Registry and Puzzles </button>
+	<button class="w3-tag w3-light-grey w3-small w3-margin-bottom" onclick="document.location=''">Supplement</button>
+    </p>
+    </div>
+  </div>
+  
+<!-- END Introduction Menu -->
+</div>
+
+<!-- END GRID -->
+</div><br>
